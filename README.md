@@ -24,35 +24,19 @@ Full Stack Developer with 2+ years of experience. Familiar with MERN Stack, Next
 [![Nauman's github stats](https://github-readme-stats.vercel.app/api?username=naumanch969&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Activity On GitHub
+
 <p align="center">
   <a href="https://github.com/naumanch969">      
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=naumanch969&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&stroke=EB5454" alt="GitHub Streak" />
- </a> 
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=naumanch969&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
 </p>
 
 ## Top Respositorys
   <p align="left">
      <a href="https://github.com/naumanch969/crm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naumanch969&repo=crm&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/naumanch969/syncboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naumanch969&repo=syncboard&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/naumanch969/swiftcart-dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naumanch969&repo=swiftcart-dashboard&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/swiftcart-dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naumanch969&repo=swiftcart-dashboard&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
-
-
-## Activity On GitHub
-
-<p align="center">
-  <a href="https://github.com/Thinkright20">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
-
-## Top Respositorys
-  <p align="left">
-     <a href="https://github.com/Thinkright20/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thinkright20&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Thinkright20/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Thinkright20&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
-
 
 
 - 🔭 I’m currently working on the frontend of doctorguide.ai (an AI application dedicated to supporting doctors) and on revamping my portfolio.
