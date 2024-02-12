@@ -24,11 +24,9 @@ Full Stack Developer with 2+ years of experience. Familiar with MERN Stack, Next
 [![Nauman's github stats](https://github-readme-stats.vercel.app/api?username=naumanch969&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Activity On GitHub
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naumanch969&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&stroke=EB5454)](https://git.io/streak-stats)
-
 <p align="center">
   <a href="https://github.com/naumanch969">      
-   <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=naumanch969&theme=dark&hide_border=true&stroke=f53b3b"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=naumanch969&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&stroke=EB5454" alt="GitHub Streak" />
  </a> 
 </p>
 
