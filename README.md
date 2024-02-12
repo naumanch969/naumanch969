@@ -32,7 +32,7 @@ Full Stack Developer with 2+ years of experience. Familiar with MERN Stack, Next
 
 ## Top Respositorys
   <p align="left">
-     <a href="https://github.com/naumanch969/crm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naumanch8969&repo=crm&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/naumanch969/crm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naumanch969&repo=crm&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/naumanch969/syncboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naumanch969&repo=syncboard&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/naumanch969/swiftcart-dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=naumanch969&repo=swiftcart-dashboard&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
