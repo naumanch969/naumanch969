@@ -38,6 +38,23 @@ Full Stack Developer with 2+ years of experience. Familiar with MERN Stack, Next
   </p>
 
 
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
+## Top Respositorys
+  <p align="left">
+     <a href="https://github.com/Thinkright20/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=thinkright20&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Thinkright20/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Thinkright20&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
+
+
+
 - 🔭 I’m currently working on the frontend of doctorguide.ai (an AI application dedicated to supporting doctors) and on revamping my portfolio.
 - 🌱 I’m currently learning GraphQL to enhance my API development skills. Excited about the efficiency and flexibility it brings to data querying!
 - 👯 I’m looking to collaborate on creative Next.js projects. Ready to bring unique ideas to life through code and design!
